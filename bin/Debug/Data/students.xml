@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSinhVien xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SinhVien>
+    <MSSV>2410001</MSSV>
+    <HoLot>Nguyễn Văn</HoLot>
+    <Ten>An</Ten>
+    <GioiTinh>true</GioiTinh>
+    <NgaySinh>2006-03-15T00:00:00</NgaySinh>
+    <Lop>CTK48</Lop>
+    <SoCMND>234567891</SoCMND>
+    <SoDT>0912345678</SoDT>
+    <DiaChi>01 Phù Đổng Thiên Vương, Đà Lạt</DiaChi>
+    <DanhSachMonHoc>
+      <MonHoc>Mạng máy tính</MonHoc>
+      <MonHoc>Hệ điều hành</MonHoc>
+      <MonHoc>Lập trình CSDL</MonHoc>
+    </DanhSachMonHoc>
+  </SinhVien>
+  <SinhVien>
+    <MSSV>2410002</MSSV>
+    <HoLot>Trần Thị</HoLot>
+    <Ten>Bích</Ten>
+    <GioiTinh>false</GioiTinh>
+    <NgaySinh>2006-08-20T00:00:00</NgaySinh>
+    <Lop>CTK48</Lop>
+    <SoCMND>234567892</SoCMND>
+    <SoDT>0987654321</SoDT>
+    <DiaChi>12 Đinh Tiên Hoàng, Đà Lạt</DiaChi>
+    <DanhSachMonHoc>
+      <MonHoc>Lập trình CSDL</MonHoc>
+      <MonHoc>Phương pháp NCKH</MonHoc>
+    </DanhSachMonHoc>
+  </SinhVien>
+  <SinhVien>
+    <MSSV>2310123</MSSV>
+    <HoLot>Lê Hoàng</HoLot>
+    <Ten>Cường</Ten>
+    <GioiTinh>true</GioiTinh>
+    <NgaySinh>2005-11-05T00:00:00</NgaySinh>
+    <Lop>CTK47</Lop>
+    <SoCMND>234567893</SoCMND>
+    <SoDT>0903123456</SoDT>
+    <DiaChi>45 Bùi Thị Xuân, Đà Lạt</DiaChi>
+    <DanhSachMonHoc>
+      <MonHoc>Mạng máy tính</MonHoc>
+      <MonHoc>Lập trình mạng</MonHoc>
+      <MonHoc>An toàn và bảo mật hệ thống</MonHoc>
+    </DanhSachMonHoc>
+  </SinhVien>
+  <SinhVien>
+    <MSSV>2210456</MSSV>
+    <HoLot>Phạm Ngọc</HoLot>
+    <Ten>Dung</Ten>
+    <GioiTinh>false</GioiTinh>
+    <NgaySinh>2004-05-12T00:00:00</NgaySinh>
+    <Lop>CTK46</Lop>
+    <SoCMND>234567894</SoCMND>
+    <SoDT>0934567890</SoDT>
+    <DiaChi>78 Phan Đình Phùng, Đà Lạt</DiaChi>
+    <DanhSachMonHoc>
+      <MonHoc>Đồ án cơ sở</MonHoc>
+      <MonHoc>Lập trình trên thiết bị di động</MonHoc>
+    </DanhSachMonHoc>
+  </SinhVien>
+  <SinhVien>
+    <MSSV>2110789</MSSV>
+    <HoLot>Vũ Minh</HoLot>
+    <Ten>Đức</Ten>
+    <GioiTinh>true</GioiTinh>
+    <NgaySinh>2003-09-28T00:00:00</NgaySinh>
+    <Lop>CTK45</Lop>
+    <SoCMND>234567895</SoCMND>
+    <SoDT>0945678901</SoDT>
+    <DiaChi>90 Hai Bà Trưng, Đà Lạt</DiaChi>
+    <DanhSachMonHoc>
+      <MonHoc>Đồ án cơ sở</MonHoc>
+      <MonHoc>Phương pháp NCKH</MonHoc>
+      <MonHoc>An toàn và bảo mật hệ thống</MonHoc>
+    </DanhSachMonHoc>
+  </SinhVien>
+  <SinhVien>
+    <MSSV>1910567</MSSV>
+    <HoLot>Đặng Thị</HoLot>
+    <Ten>Hoa</Ten>
+    <GioiTinh>false</GioiTinh>
+    <NgaySinh>2001-02-14T00:00:00</NgaySinh>
+    <Lop>CTK43</Lop>
+    <SoCMND>234567896</SoCMND>
+    <SoDT>0978901234</SoDT>
+    <DiaChi>100 Trần Phú, Đà Lạt</DiaChi>
+    <DanhSachMonHoc>
+      <MonHoc>Lập trình mạng</MonHoc>
+      <MonHoc>An toàn và bảo mật hệ thống</MonHoc>
+    </DanhSachMonHoc>
+  </SinhVien>
+</ArrayOfSinhVien>

@@ -1,0 +1,4 @@
+Dòng 1: Bài thực hành Chủ đề 3 - Thao tác tập tin
+Dòng 2: Môn học: Lập trình Windows Form C#
+Dòng 3: Khoa Công Nghệ Thông Tin - Đại Học Đà Lạt
+Dòng 4: Sử dụng lớp System.IO.File để đọc và ghi tập tin.

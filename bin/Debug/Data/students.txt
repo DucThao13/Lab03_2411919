@@ -1,0 +1,6 @@
+2410001*Nguyễn Văn*An*Nam*15/03/2006*CTK48*234567891*0912345678*01 Phù Đổng Thiên Vương, Đà Lạt*Mạng máy tính,Hệ điều hành,Lập trình CSDL
+2410002*Trần Thị*Bích*Nữ*20/08/2006*CTK48*234567892*0987654321*12 Đinh Tiên Hoàng, Đà Lạt*Lập trình CSDL,Phương pháp NCKH
+2310123*Lê Hoàng*Cường*Nam*05/11/2005*CTK47*234567893*0903123456*45 Bùi Thị Xuân, Đà Lạt*Mạng máy tính,Lập trình mạng,An toàn và bảo mật hệ thống
+2210456*Phạm Ngọc*Dung*Nữ*12/05/2004*CTK46*234567894*0934567890*78 Phan Đình Phùng, Đà Lạt*Đồ án cơ sở,Lập trình trên thiết bị di động
+2110789*Vũ Minh*Đức*Nam*28/09/2003*CTK45*234567895*0945678901*90 Hai Bà Trưng, Đà Lạt*Đồ án cơ sở,Phương pháp NCKH,An toàn và bảo mật hệ thống
+1910567*Đặng Thị*Hoa*Nữ*14/02/2001*CTK43*234567896*0978901234*100 Trần Phú, Đà Lạt*Lập trình mạng,An toàn và bảo mật hệ thống

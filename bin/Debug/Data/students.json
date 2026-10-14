@@ -1,0 +1,95 @@
+[
+  {
+    "MSSV": "2410001",
+    "HoLot": "Nguyễn Văn",
+    "Ten": "An",
+    "GioiTinh": true,
+    "NgaySinh": "2006-03-15T00:00:00",
+    "Lop": "CTK48",
+    "SoCMND": "234567891",
+    "SoDT": "0912345678",
+    "DiaChi": "01 Phù Đổng Thiên Vương, Đà Lạt",
+    "DanhSachMonHoc": [
+      "Mạng máy tính",
+      "Hệ điều hành",
+      "Lập trình CSDL"
+    ]
+  },
+  {
+    "MSSV": "2410002",
+    "HoLot": "Trần Thị",
+    "Ten": "Bích",
+    "GioiTinh": false,
+    "NgaySinh": "2006-08-20T00:00:00",
+    "Lop": "CTK48",
+    "SoCMND": "234567892",
+    "SoDT": "0987654321",
+    "DiaChi": "12 Đinh Tiên Hoàng, Đà Lạt",
+    "DanhSachMonHoc": [
+      "Lập trình CSDL",
+      "Phương pháp NCKH"
+    ]
+  },
+  {
+    "MSSV": "2310123",
+    "HoLot": "Lê Hoàng",
+    "Ten": "Cường",
+    "GioiTinh": true,
+    "NgaySinh": "2005-11-05T00:00:00",
+    "Lop": "CTK47",
+    "SoCMND": "234567893",
+    "SoDT": "0903123456",
+    "DiaChi": "45 Bùi Thị Xuân, Đà Lạt",
+    "DanhSachMonHoc": [
+      "Mạng máy tính",
+      "Lập trình mạng",
+      "An toàn và bảo mật hệ thống"
+    ]
+  },
+  {
+    "MSSV": "2210456",
+    "HoLot": "Phạm Ngọc",
+    "Ten": "Dung",
+    "GioiTinh": false,
+    "NgaySinh": "2004-05-12T00:00:00",
+    "Lop": "CTK46",
+    "SoCMND": "234567894",
+    "SoDT": "0934567890",
+    "DiaChi": "78 Phan Đình Phùng, Đà Lạt",
+    "DanhSachMonHoc": [
+      "Đồ án cơ sở",
+      "Lập trình trên thiết bị di động"
+    ]
+  },
+  {
+    "MSSV": "2110789",
+    "HoLot": "Vũ Minh",
+    "Ten": "Đức",
+    "GioiTinh": true,
+    "NgaySinh": "2003-09-28T00:00:00",
+    "Lop": "CTK45",
+    "SoCMND": "234567895",
+    "SoDT": "0945678901",
+    "DiaChi": "90 Hai Bà Trưng, Đà Lạt",
+    "DanhSachMonHoc": [
+      "Đồ án cơ sở",
+      "Phương pháp NCKH",
+      "An toàn và bảo mật hệ thống"
+    ]
+  },
+  {
+    "MSSV": "1910567",
+    "HoLot": "Đặng Thị",
+    "Ten": "Hoa",
+    "GioiTinh": false,
+    "NgaySinh": "2001-02-14T00:00:00",
+    "Lop": "CTK43",
+    "SoCMND": "234567896",
+    "SoDT": "0978901234",
+    "DiaChi": "100 Trần Phú, Đà Lạt",
+    "DanhSachMonHoc": [
+      "Lập trình mạng",
+      "An toàn và bảo mật hệ thống"
+    ]
+  }
+]

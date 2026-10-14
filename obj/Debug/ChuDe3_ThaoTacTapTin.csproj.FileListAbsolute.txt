@@ -1,0 +1,42 @@
+c:\Users\NguyenPhuc IT\Downloads\BTTH_CTK48B\BTTH_CTK48B\MyForm\ChuDe3_ThaoTacTapTin\bin\Debug\Data\books.xml
+c:\Users\NguyenPhuc IT\Downloads\BTTH_CTK48B\BTTH_CTK48B\MyForm\ChuDe3_ThaoTacTapTin\bin\Debug\Data\demo_students.json
+c:\Users\NguyenPhuc IT\Downloads\BTTH_CTK48B\BTTH_CTK48B\MyForm\ChuDe3_ThaoTacTapTin\bin\Debug\Data\students.json
+c:\Users\NguyenPhuc IT\Downloads\BTTH_CTK48B\BTTH_CTK48B\MyForm\ChuDe3_ThaoTacTapTin\bin\Debug\Data\students.txt
+c:\Users\NguyenPhuc IT\Downloads\BTTH_CTK48B\BTTH_CTK48B\MyForm\ChuDe3_ThaoTacTapTin\bin\Debug\Data\students.xml
+c:\Users\NguyenPhuc IT\Downloads\BTTH_CTK48B\BTTH_CTK48B\MyForm\ChuDe3_ThaoTacTapTin\bin\Debug\ChuDe3_ThaoTacTapTin.exe.config
+c:\Users\NguyenPhuc IT\Downloads\BTTH_CTK48B\BTTH_CTK48B\MyForm\ChuDe3_ThaoTacTapTin\bin\Debug\ChuDe3_ThaoTacTapTin.exe
+c:\Users\NguyenPhuc IT\Downloads\BTTH_CTK48B\BTTH_CTK48B\MyForm\ChuDe3_ThaoTacTapTin\bin\Debug\ChuDe3_ThaoTacTapTin.pdb
+c:\Users\NguyenPhuc IT\Downloads\BTTH_CTK48B\BTTH_CTK48B\MyForm\ChuDe3_ThaoTacTapTin\bin\Debug\Newtonsoft.Json.dll
+c:\Users\NguyenPhuc IT\Downloads\BTTH_CTK48B\BTTH_CTK48B\MyForm\ChuDe3_ThaoTacTapTin\bin\Debug\Newtonsoft.Json.xml
+c:\Users\NguyenPhuc IT\Downloads\BTTH_CTK48B\BTTH_CTK48B\MyForm\ChuDe3_ThaoTacTapTin\obj\Debug\ChuDe3_ThaoTacTapTin.csproj.AssemblyReference.cache
+c:\Users\NguyenPhuc IT\Downloads\BTTH_CTK48B\BTTH_CTK48B\MyForm\ChuDe3_ThaoTacTapTin\obj\Debug\ChuDe3_ThaoTacTapTin.Forms.frmDemoThucHanh.resources
+c:\Users\NguyenPhuc IT\Downloads\BTTH_CTK48B\BTTH_CTK48B\MyForm\ChuDe3_ThaoTacTapTin\obj\Debug\ChuDe3_ThaoTacTapTin.Forms.frmSinhVien.resources
+c:\Users\NguyenPhuc IT\Downloads\BTTH_CTK48B\BTTH_CTK48B\MyForm\ChuDe3_ThaoTacTapTin\obj\Debug\ChuDe3_ThaoTacTapTin.Forms.frmThemMonHoc.resources
+c:\Users\NguyenPhuc IT\Downloads\BTTH_CTK48B\BTTH_CTK48B\MyForm\ChuDe3_ThaoTacTapTin\obj\Debug\ChuDe3_ThaoTacTapTin.Forms.frmTimKiem.resources
+c:\Users\NguyenPhuc IT\Downloads\BTTH_CTK48B\BTTH_CTK48B\MyForm\ChuDe3_ThaoTacTapTin\obj\Debug\ChuDe3_ThaoTacTapTin.Properties.Resources.resources
+c:\Users\NguyenPhuc IT\Downloads\BTTH_CTK48B\BTTH_CTK48B\MyForm\ChuDe3_ThaoTacTapTin\obj\Debug\ChuDe3_ThaoTacTapTin.csproj.GenerateResource.cache
+c:\Users\NguyenPhuc IT\Downloads\BTTH_CTK48B\BTTH_CTK48B\MyForm\ChuDe3_ThaoTacTapTin\obj\Debug\ChuDe3_ThaoTacTapTin.csproj.CoreCompileInputs.cache
+c:\Users\NguyenPhuc IT\Downloads\BTTH_CTK48B\BTTH_CTK48B\MyForm\ChuDe3_ThaoTacTapTin\obj\Debug\ChuDe3_T.AF239C67.Up2Date
+c:\Users\NguyenPhuc IT\Downloads\BTTH_CTK48B\BTTH_CTK48B\MyForm\ChuDe3_ThaoTacTapTin\obj\Debug\ChuDe3_ThaoTacTapTin.exe
+c:\Users\NguyenPhuc IT\Downloads\BTTH_CTK48B\BTTH_CTK48B\MyForm\ChuDe3_ThaoTacTapTin\obj\Debug\ChuDe3_ThaoTacTapTin.pdb
+D:\Btap Cua DThao\Lab03_BTTH\BTTH_CTK48B\BTTH_CTK48B\2411919_PhamTrinhDucThao\ChuDe3_ThaoTacTapTin\bin\Debug\Data\books.xml
+D:\Btap Cua DThao\Lab03_BTTH\BTTH_CTK48B\BTTH_CTK48B\2411919_PhamTrinhDucThao\ChuDe3_ThaoTacTapTin\bin\Debug\Data\demo_students.json
+D:\Btap Cua DThao\Lab03_BTTH\BTTH_CTK48B\BTTH_CTK48B\2411919_PhamTrinhDucThao\ChuDe3_ThaoTacTapTin\bin\Debug\Data\students.json
+D:\Btap Cua DThao\Lab03_BTTH\BTTH_CTK48B\BTTH_CTK48B\2411919_PhamTrinhDucThao\ChuDe3_ThaoTacTapTin\bin\Debug\Data\students.txt
+D:\Btap Cua DThao\Lab03_BTTH\BTTH_CTK48B\BTTH_CTK48B\2411919_PhamTrinhDucThao\ChuDe3_ThaoTacTapTin\bin\Debug\Data\students.xml
+D:\Btap Cua DThao\Lab03_BTTH\BTTH_CTK48B\BTTH_CTK48B\2411919_PhamTrinhDucThao\ChuDe3_ThaoTacTapTin\bin\Debug\ChuDe3_ThaoTacTapTin.exe.config
+D:\Btap Cua DThao\Lab03_BTTH\BTTH_CTK48B\BTTH_CTK48B\2411919_PhamTrinhDucThao\ChuDe3_ThaoTacTapTin\bin\Debug\ChuDe3_ThaoTacTapTin.exe
+D:\Btap Cua DThao\Lab03_BTTH\BTTH_CTK48B\BTTH_CTK48B\2411919_PhamTrinhDucThao\ChuDe3_ThaoTacTapTin\bin\Debug\ChuDe3_ThaoTacTapTin.pdb
+D:\Btap Cua DThao\Lab03_BTTH\BTTH_CTK48B\BTTH_CTK48B\2411919_PhamTrinhDucThao\ChuDe3_ThaoTacTapTin\bin\Debug\Newtonsoft.Json.dll
+D:\Btap Cua DThao\Lab03_BTTH\BTTH_CTK48B\BTTH_CTK48B\2411919_PhamTrinhDucThao\ChuDe3_ThaoTacTapTin\bin\Debug\Newtonsoft.Json.xml
+D:\Btap Cua DThao\Lab03_BTTH\BTTH_CTK48B\BTTH_CTK48B\2411919_PhamTrinhDucThao\ChuDe3_ThaoTacTapTin\obj\Debug\ChuDe3_ThaoTacTapTin.csproj.AssemblyReference.cache
+D:\Btap Cua DThao\Lab03_BTTH\BTTH_CTK48B\BTTH_CTK48B\2411919_PhamTrinhDucThao\ChuDe3_ThaoTacTapTin\obj\Debug\ChuDe3_ThaoTacTapTin.Forms.frmDemoThucHanh.resources
+D:\Btap Cua DThao\Lab03_BTTH\BTTH_CTK48B\BTTH_CTK48B\2411919_PhamTrinhDucThao\ChuDe3_ThaoTacTapTin\obj\Debug\ChuDe3_ThaoTacTapTin.Forms.frmSinhVien.resources
+D:\Btap Cua DThao\Lab03_BTTH\BTTH_CTK48B\BTTH_CTK48B\2411919_PhamTrinhDucThao\ChuDe3_ThaoTacTapTin\obj\Debug\ChuDe3_ThaoTacTapTin.Forms.frmThemMonHoc.resources
+D:\Btap Cua DThao\Lab03_BTTH\BTTH_CTK48B\BTTH_CTK48B\2411919_PhamTrinhDucThao\ChuDe3_ThaoTacTapTin\obj\Debug\ChuDe3_ThaoTacTapTin.Forms.frmTimKiem.resources
+D:\Btap Cua DThao\Lab03_BTTH\BTTH_CTK48B\BTTH_CTK48B\2411919_PhamTrinhDucThao\ChuDe3_ThaoTacTapTin\obj\Debug\ChuDe3_ThaoTacTapTin.Properties.Resources.resources
+D:\Btap Cua DThao\Lab03_BTTH\BTTH_CTK48B\BTTH_CTK48B\2411919_PhamTrinhDucThao\ChuDe3_ThaoTacTapTin\obj\Debug\ChuDe3_ThaoTacTapTin.csproj.GenerateResource.cache
+D:\Btap Cua DThao\Lab03_BTTH\BTTH_CTK48B\BTTH_CTK48B\2411919_PhamTrinhDucThao\ChuDe3_ThaoTacTapTin\obj\Debug\ChuDe3_ThaoTacTapTin.csproj.CoreCompileInputs.cache
+D:\Btap Cua DThao\Lab03_BTTH\BTTH_CTK48B\BTTH_CTK48B\2411919_PhamTrinhDucThao\ChuDe3_ThaoTacTapTin\obj\Debug\ChuDe3_T.AF239C67.Up2Date
+D:\Btap Cua DThao\Lab03_BTTH\BTTH_CTK48B\BTTH_CTK48B\2411919_PhamTrinhDucThao\ChuDe3_ThaoTacTapTin\obj\Debug\ChuDe3_ThaoTacTapTin.exe
+D:\Btap Cua DThao\Lab03_BTTH\BTTH_CTK48B\BTTH_CTK48B\2411919_PhamTrinhDucThao\ChuDe3_ThaoTacTapTin\obj\Debug\ChuDe3_ThaoTacTapTin.pdb
